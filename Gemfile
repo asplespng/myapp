@@ -29,6 +29,13 @@ gem 'haml-rails'
 
 gem 'simple_form'
 
+gem 'bourbon'
+
+gem 'normalize-rails'
+
+gem 'neat'
+
+gem 'refills'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 

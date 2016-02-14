@@ -1,0 +1,12 @@
+/************ General Page Elements */
+.row-wrapper {
+  @include row();
+
+  .outer-container {
+    @include outer-container;
+  }
+}
+
+.navigation {
+  margin-bottom: 18px;
+}

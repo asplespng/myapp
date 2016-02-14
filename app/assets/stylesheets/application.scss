@@ -3,6 +3,8 @@
 @import "normalize-rails";
 @import "bourbon";
 @import "base/grid-settings";
-@import "neat/neat";
+@import "neat";
 @import "base/base";
 @import "refills/flashes";
+@import "refills/navigation";
+@import "layout";
